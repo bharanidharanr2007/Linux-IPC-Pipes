@@ -90,7 +90,8 @@ void client(int wfd, int rfd) {
 
 ## OUTPUT
 
-![alt text](image-1.png)
+<img width="394" height="620" alt="image" src="https://github.com/user-attachments/assets/1088b7c4-8c17-4a9d-afe7-544bd4c8e69b" />
+
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
